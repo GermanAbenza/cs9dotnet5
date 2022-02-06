@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "1_Operators"
+    },
+    {
+      "path": "2_BooleanOperators"
+    },
+    {
+      "path": "3_BitwiseAndShiftOperators"
+    }
+  ],
+  "settings": {}
+}
